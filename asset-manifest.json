@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yummy-valentine/static/css/main.62a93d1d.css",
+    "main.js": "/yummy-valentine/static/js/main.743b8b0f.js",
+    "index.html": "/yummy-valentine/index.html",
+    "main.62a93d1d.css.map": "/yummy-valentine/static/css/main.62a93d1d.css.map",
+    "main.743b8b0f.js.map": "/yummy-valentine/static/js/main.743b8b0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62a93d1d.css",
+    "static/js/main.743b8b0f.js"
+  ]
+}
